@@ -1,13 +1,23 @@
 # Spam-wa_By.dz
-Sebelum mulai pastikan sudah:
+===========================
+# *Pemkaian/pemasangan*
+- *Import Githubnya dulu*
 ```bash
-git clone https://github/Dhelzz/Spam-wa_By.Dz
+git clone https://github.com/Dhelzz/Spam-wa_By.Dz
 ```
-- **Masuk kedalam directory**
+- *Masuk kedalam directory*
 ```sh
 cd Spam-wa_By.Dz
 ```
-- **Jalankan main.py atau Ketik ini di Terminal ( CMD )**
+- *Jalankan main.py atau Ketik ini di Terminal ( CMD )/termux*
 ```bash
 python Start.py
+```
+===========================
+# *instalasi termux*
+**sebelum pemasangan github pastikan sudah:**
+```sh
+apt upgrade && apt update
+pkg install python
+pkg install git
 ```
