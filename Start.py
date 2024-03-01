@@ -324,7 +324,7 @@ def start(nomor,x): # Def Untuk Start Tools
         jam(nomor)
         
 def main():
-    os.system("cls") # Clear Terminal agar CMD berwarna
+    os.system("clear") # Clear Terminal agar CMD berwarna
     autoketik(f"{biru}Selamat datang di {merah}Spam-wa_By.Dz")
     print(f"""{kuning}Author      : {hijau}Dhelzz
 {kuning}Github      : {ungu}github.com/Dhelzz
