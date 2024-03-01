@@ -5,13 +5,13 @@
 # *Pemkaian/pemasangan*
 - *Import Githubnya dulu*
 ```bash
-git clone https://github.com/Dhelzz/Spam-wa_By.Dz
+git clone https://github.com/Dhelzz/Spam-OTP_By.Dz
 ```
 - *Masuk kedalam directory*
 ```sh
 cd Spam-wa_By.Dz
 ```
-- *Jalankan main.py atau Ketik ini di Terminal ( CMD )/termux*
+- *Jalankan start.py atau Ketik ini di Terminal termux*
 ```bash
 python Start.py
 ```
