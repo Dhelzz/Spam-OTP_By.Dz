@@ -1,6 +1,7 @@
 # Spam-wa_By.dz
 ===========================
-*untuk spam wa dan sms
+
+*untuk spam wa dan sms*
 # *Pemkaian/pemasangan*
 - *Import Githubnya dulu*
 ```bash
