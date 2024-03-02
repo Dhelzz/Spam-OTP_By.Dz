@@ -319,7 +319,7 @@ def start(nomor,x): # Def Untuk Start Tools
         print("")
         autoketik("--reboot wait 20 second--")
         time.sleep(15) # Tunda 20 detik
-        os.system("cls") # Clear Terminal
+        os.system("clear") # Clear Terminal
         autoketik(f"{merah}Mengulang Spam ke Nomor : {nomor}.....{hijau}") # Flag dimana program berjalan
         jam(nomor)
         
