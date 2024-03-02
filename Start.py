@@ -328,10 +328,11 @@ def main():
     autoketik(f"{biru}Selamat datang di {merah}Spam-wa_By.Dz")
     print(f"{putih}====================================")
     print(f"""{kuning}Author      : {hijau}Dhelzz
-{kuning}Github      : {ungu}github.com/Dhelzz
-{kuning}Tik Tok     : {biru}instagram.com/Dhelzz
+{kuning}Github     : {ungu}github.com/Dhelzz
+{kuning}YouTube    : {biru}youtube.com/@dhelzzaja
 {putih}====================================""")
     # Contoh : 081208226367
+    print(f"{hijau}contoh : {ungu}081234567890")
     print(nomor := input(f"{merah}Masukkan Nomor Target: {putih}")) # Walrus Operator untuk inputan Nomor Target
     start(nomor,0) # Memulai Tools
 
