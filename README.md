@@ -20,6 +20,10 @@ python Start.py
 **sebelum pemasangan github pastikan sudah:**
 ```sh
 apt upgrade && apt update
+pkg install requests
+pkg install bs4
+pkg install urllib3
+pkg install json
 pkg install python
 pkg install git
 ```
