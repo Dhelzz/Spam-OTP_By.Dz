@@ -326,10 +326,11 @@ def start(nomor,x): # Def Untuk Start Tools
 def main():
     os.system("clear") # Clear Terminal agar berwarna
     autoketik(f"{biru}Selamat datang di {merah}Spam-wa_By.Dz")
+    print(f"{putih}====================================")
     print(f"""{kuning}Author      : {hijau}Dhelzz
 {kuning}Github      : {ungu}github.com/Dhelzz
-{kuning}Instagram   : {biru}instagram.com/Dhelzz
-{hijau}====================================""")
+{kuning}Tik Tok     : {biru}instagram.com/Dhelzz
+{putih}====================================""")
     # Contoh : 081208226367
     print(nomor := input(f"{merah}Masukkan Nomor Target: {putih}")) # Walrus Operator untuk inputan Nomor Target
     start(nomor,0) # Memulai Tools
