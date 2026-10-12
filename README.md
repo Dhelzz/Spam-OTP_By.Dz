@@ -19,11 +19,11 @@ python Start.py
 # *instalasi termux*
 **sebelum pemasangan github pastikan sudah:**
 ```sh
-apt upgrade && apt update
-pkg install requests
-pkg install bs4
-pkg install urllib3
-pkg install json
-pkg install python
-pkg install git
+pip upgrade && apt update
+pip install requests
+pip install bs4
+pip install urllib3
+pip install json
+pip install python
+pip install git
 ```
